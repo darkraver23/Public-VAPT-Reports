@@ -4,9 +4,9 @@ Welcome to the **VAPT Public Reports** collection.
 Here, you will find **publicly available Vulnerability Assessment and Penetration Testing (VAPT) reports** that can be used for **study, research, and skill development** in cybersecurity.  
 
 These reports provide insights into:  
-- Real-world security assessments  
-- Common vulnerabilities and exploitation methods  
-- Remediation recommendations and best practices  
+- Real-world security assessments
+- Common vulnerabilities and exploitation methods
+- Remediation recommendations and best practices
 
 --- 
 
