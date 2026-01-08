@@ -5,7 +5,7 @@ Here, you will find **publicly available Vulnerability Assessment and Penetratio
 
 These reports provide insights into:  
 - Real-world security assessments
-- Common vulnerabilities and exploitation methods
+- Common vulnerabilities and exploitation methods  
 - Remediation recommendations and best practices
 
 --- 
